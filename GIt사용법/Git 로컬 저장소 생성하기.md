@@ -161,6 +161,17 @@ tracking된 파일은 초록색 글씨로 변함
 
 
 
+#### git reset HEAD^ == git add 취소하기 
+
+```java
+git reset HEAD^
+git add를 잘못했을때 사용
+```
+
+![git add취소하기](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git add취소하기.PNG)
+
+
+
 #### modified : 수정된 파일 (Tracking이된 파일을 수정해서 다시 Untracking으로 된 파일)
 
 ```javascript
