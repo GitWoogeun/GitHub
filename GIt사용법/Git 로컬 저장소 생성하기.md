@@ -32,13 +32,13 @@ git directory는 이제 push를 이용해서 github에 올릴수있는 공간을
 commit이라는 명령어를 이용해서 staging area에 있는 파일들을 git directory에 저장
 ```
 
-![git Workflow0](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git Workflow0.PNG)
+![git Workflow0](C:\gitproject\GIt사용법\이미지 파일\git Workflow0.PNG)
 
-![git Workflow1](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git Workflow1.PNG)
+![git Workflow1](C:\gitproject\GIt사용법\이미지 파일\git Workflow1.PNG)
 
-![git Workflow2](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git Workflow2.PNG)
+![git Workflow2](C:\gitproject\GIt사용법\이미지 파일\git Workflow2.PNG)
 
-![git Workflow3](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git Workflow3.PNG)
+![git Workflow3](C:\gitproject\GIt사용법\이미지 파일\git Workflow3.PNG)
 
 
 
@@ -48,7 +48,7 @@ commit이라는 명령어를 이용해서 staging area에 있는 파일들을 gi
 폴더를 git폴더로 사용하겠다 라는 명령어
 ```
 
-![git init](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git init.PNG)
+![git init](C:\gitproject\GIt사용법\이미지 파일\git init.PNG)
 
 
 
@@ -74,7 +74,7 @@ pull이라는 명령어를 이용해서 github에 있는 파일들을 다시 내
 git add를 해서 Git에서 파일을 읽어서 commit을 할수 있는 단계
 ```
 
-![tracking파일](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\tracking파일.PNG)
+![tracking파일](C:\gitproject\GIt사용법\이미지 파일\tracking파일.PNG)
 
 
 
@@ -84,7 +84,7 @@ git add를 해서 Git에서 파일을 읽어서 commit을 할수 있는 단계
 git add를 하지 않아서 Git에서 파일을 읽지 못해 commit을 할수 없는 단계
 ```
 
-![Untracking파일](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\Untracking파일.PNG)
+![Untracking파일](C:\gitproject\GIt사용법\이미지 파일\Untracking파일.PNG)
 
 
 
@@ -94,7 +94,7 @@ git add를 하지 않아서 Git에서 파일을 읽지 못해 commit을 할수 �
 cd는 폴더 안으로 들어가는 명령어
 ```
 
-![cd 폴더 들어가기](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\cd 폴더 들어가기.PNG)
+![cd 폴더 들어가기](C:\gitproject\GIt사용법\이미지 파일\cd 폴더 들어가기.PNG)
 
 
 
@@ -105,7 +105,7 @@ echo '저장할 내용' >파일명.파일타입 하면 새로 파일이 저장�
 ex) echo hello world > a.txt 
 ```
 
-![git echo](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git echo.PNG)
+![git echo](C:\gitproject\GIt사용법\이미지 파일\git echo.PNG)
 
 
 
@@ -120,7 +120,7 @@ ex) a.txt에 원래 내용이 hello world만 있었는데
     git study으로 바뀌었다.
 ```
 
-![echo 추가할내용 파일이미지](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\echo 추가할내용 파일이미지.PNG)
+![echo 추가할내용 파일이미지](C:\gitproject\GIt사용법\이미지 파일\echo 추가할내용 파일이미지.PNG)
 
 
 
@@ -132,7 +132,7 @@ ex) a.txt에 원래 내용이 hello world만 있었는데
 빨간색글씨로 된 파일이 있으면 untracked 파일인것이다 
 ```
 
-![git status](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git status.PNG)
+![git status](C:\gitproject\GIt사용법\이미지 파일\git status.PNG)
 
 
 
@@ -147,7 +147,7 @@ ex) git add a.txt
 tracking된 파일은 초록색 글씨로 변함
 ```
 
-![git add](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git add.PNG)
+![git add](C:\gitproject\GIt사용법\이미지 파일\git add.PNG)
 
 
 
@@ -157,7 +157,7 @@ tracking된 파일은 초록색 글씨로 변함
 *.txt = txt형식의 파일 전부를 tracking으로 바꾼다.
 ```
 
-![git add all](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git add all.PNG)
+![git add all](C:\gitproject\GIt사용법\이미지 파일\git add all.PNG)
 
 
 
@@ -168,7 +168,7 @@ git reset HEAD^
 git add를 잘못했을때 사용
 ```
 
-![git add취소하기](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git add취소하기.PNG)
+![git add취소](C:\gitproject\GIt사용법\이미지 파일\git add취소.PNG)
 
 
 
@@ -183,7 +183,7 @@ c파일이 수정된 파일이라고 알려주는것
 		  그래서 다시 add로 c.txt파일을 tracking해주면 기존꺼랑 새로 수정된 파일이랑 겹쳐지게된다.
 ```
 
-![modified](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\modified.PNG)
+![modified](C:\gitproject\GIt사용법\이미지 파일\modified.PNG)
 
 
 
@@ -196,7 +196,7 @@ ex) git rm --cached a.txt
   => tracking된 a.txt파일을 다시 untracking된 a.txt로 바꾼다
 ```
 
-![cached 빼낼 파일](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\cached 빼낼 파일.PNG)
+![cached 빼낼 파일](C:\gitproject\GIt사용법\이미지 파일\cached 빼낼 파일.PNG)
 
 
 
@@ -213,7 +213,7 @@ echo d.txt>.gitignore
 삭제하는것이 아닌 일시적으로 배제시킬수있는다.
 ```
 
-![gitignore](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\gitignore.PNG)
+![gitignore](C:\gitproject\GIt사용법\이미지 파일\gitignore.PNG)
 
 
 
@@ -224,7 +224,7 @@ git status -s
 간단하게 깃의 상태를 표시해준다.
 ```
 
-![git status -s](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git status -s.PNG)
+![git status -s](C:\gitproject\GIt사용법\이미지 파일\git status -s.PNG)
 
 
 
@@ -235,7 +235,7 @@ cat c.txt
 c.txt파일에 있는 내용들을 확인할수 있다.
 ```
 
-![cat 내용확인할 파일](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\cat 내용확인할 파일.PNG)
+![cat 내용확인할 파일](C:\gitproject\GIt사용법\이미지 파일\cat 내용확인할 파일.PNG)
 
 
 
@@ -247,7 +247,7 @@ c.txt파일에 있는 내용들을 확인할수 있다.
 git diff는 로컬저장소와 원격저장소가 연결되있을시 확인가능
 ```
 
-![git diff](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git diff.PNG)
+![git diff](C:\gitproject\GIt사용법\이미지 파일\git diff.PNG)
 
 
 
@@ -260,7 +260,7 @@ git diff는 로컬저장소와 원격저장소가 연결되있을시 확인가�
 +초록색 글씨는 새로 추가된 내용
 ```
 
-![git diff --staged](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git diff --staged.PNG)
+![git diff --staged](C:\gitproject\GIt사용법\이미지 파일\git diff --staged.PNG)
 
 
 
@@ -270,7 +270,7 @@ git diff는 로컬저장소와 원격저장소가 연결되있을시 확인가�
 git commit -m "4월18일 저장"
 ```
 
-![git commit](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git commit.PNG)
+![git commit](C:\gitproject\GIt사용법\이미지 파일\git commit.PNG)
 
 
 
@@ -280,7 +280,7 @@ git commit -m "4월18일 저장"
 git commit -am "메세지"
 ```
 
-![git commit -am](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git commit -am.PNG)
+![git commit -am](C:\gitproject\GIt사용법\이미지 파일\git commit -am.PNG)
 
 
 
@@ -291,7 +291,7 @@ git log
 언제 몇시에 파일이 저장되어있는지 확인 가능하다.
 ```
 
-![git log](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git log.PNG)
+![git log](C:\gitproject\GIt사용법\이미지 파일\git log.PNG)
 
 
 
@@ -303,13 +303,13 @@ git reset f7f67f --hard
 git reset한 시점으로 돌아갈수있다 (대신 앞에 기록들은 삭제됨)
 ```
 
-![git reset](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git reset.PNG)
+![git reset](C:\gitproject\GIt사용법\이미지 파일\git reset.PNG)
 
 
 
 #### git.reset 확인 (f7f67f으로 돌아와서 앞에 기록들은 히스토리는 없어짐)
 
-![git.reset확인](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git.reset확인.PNG)
+![git.reset확인](C:\gitproject\GIt사용법\이미지 파일\git.reset확인.PNG)
 
 
 
@@ -321,7 +321,7 @@ git reset한 시점으로 돌아갈수있다 (대신 앞에 기록들은 삭제�
 git branch my-idea (my-idea라는 이름으로 평행우주 만듬)
 ```
 
-![git branch](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git branch.PNG)
+![git branch](C:\gitproject\GIt사용법\이미지 파일\git branch.PNG)
 
 
 
@@ -333,13 +333,13 @@ master에서 => my-idea로 이동
 master와는 별개로 여기서는 이것저것 막 시도해볼수있음 
 ```
 
-![git checkout](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git checkout.PNG)
+![git checkout](C:\gitproject\GIt사용법\이미지 파일\git checkout.PNG)
 
 
 
 #### my-idea에서 파일 하나 생성
 
-![my idea필드에서 파일생성](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\my idea필드에서 파일생성.PNG)
+![my idea필드에서 파일생성](C:\gitproject\GIt사용법\이미지 파일\my idea필드에서 파일생성.PNG)
 
 
 
@@ -353,7 +353,7 @@ git merge my-idea를 입력하면
 원래 우주에다가 my-idea우주의 파일들을 합칠수있다.
 ```
 
-![git merge](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git merge.PNG)
+![git merge](C:\gitproject\GIt사용법\이미지 파일\git merge.PNG)
 
 
 
@@ -364,7 +364,7 @@ git log --graph --all --decorate
 시각화된 다른우주에서의 작업내역을 볼수있다.
 ```
 
-![git log --graph --all --decorate](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git log --graph --all --decorate.PNG)
+![git log --graph --all --decorate](C:\gitproject\GIt사용법\이미지 파일\git log --graph --all --decorate.PNG)
 
 
 
@@ -376,5 +376,5 @@ git log --graph --all --decorate
 Current branch master is up to date == 현재 분기 마스터가 최신 상태입니다.
 ```
 
-![git Rebase](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git Rebase.PNG)
+![git Rebase](C:\gitproject\GIt사용법\이미지 파일\git Rebase.PNG)
 

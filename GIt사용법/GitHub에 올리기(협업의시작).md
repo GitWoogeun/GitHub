@@ -25,7 +25,7 @@ origin은 기본값으로 사용(default)
 git remote add https://github.com/GitWoogeun/Spring.git
 ```
 
-![git remote add URL](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git remote add URL.PNG)
+![git remote add URL](C:\gitproject\GIt사용법\이미지 파일\git remote add URL.PNG)
 
 
 
@@ -41,9 +41,9 @@ origin https://github.com/GitWoogeun/Spring.git(push)
 이런식으로 뜬다면 연결 성공!
 ```
 
-![git remote](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git remote.PNG)
+![git remote](C:\gitproject\GIt사용법\이미지 파일\git remote.PNG)
 
-![git -remote 연결성공](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git -remote 연결성공.PNG)
+![git -remote 연결성공](C:\gitproject\GIt사용법\이미지 파일\git -remote 연결성공.PNG)
 
 
 
@@ -59,11 +59,11 @@ git remote remove origin
 지우는 이유 : 다른 repository에 새로 연결해서 파일을 업로드 하기위해서
 ```
 
-![git -remote 연결성공](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git -remote 연결성공.PNG)
+![git -remote 연결성공](C:\gitproject\GIt사용법\이미지 파일\git -remote 연결성공.PNG)
 
-![git remote remove](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git remote remove.PNG)
+![git remote remove](C:\gitproject\GIt사용법\이미지 파일\git remote remove.png)
 
-![git remote remove 확인](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git remote remove 확인.PNG)
+![git remote](C:\gitproject\GIt사용법\이미지 파일\git remote.PNG)
 
 
 
@@ -91,7 +91,7 @@ git push -u origin main
 
 #### 입력하고 난뒤 이런 메세지가 뜨면 업로드 성공!
 
-![업로드 성공 메세지](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\업로드 성공 메세지.PNG)
+![업로드 성공 메세지](C:\gitproject\GIt사용법\이미지 파일\업로드 성공 메세지.PNG)
 
 
 
@@ -110,7 +110,7 @@ master로 바뀌어 주어야한다.
 git branch -M master  (브랜치의 메인이 master라고 선언하는 명령어)
 ```
 
-![git push 오리지널](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git push 오리지널.PNG)
+![git push 오리지널](C:\gitproject\GIt사용법\이미지 파일\git push 오리지널.PNG)
 
 
 
@@ -130,19 +130,19 @@ echo 올리지않을파일.txt>>.gitignore
 
 #### .gitignore파일생성
 
-![gitignore](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\gitignore.PNG)
+![gitignore](C:\gitproject\GIt사용법\이미지 파일\gitignore.PNG)
 
-![gitignore파일 생성](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\gitignore파일 생성.PNG)
+![gitignore파일 생성](C:\gitproject\GIt사용법\이미지 파일\gitignore파일 생성.PNG)
 
 
 
  #### 올리지않을 파일 생성
 
-![올리지않을파일 생성](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\올리지않을파일 생성.PNG)
+![올리지않을파일 생성](C:\gitproject\GIt사용법\이미지 파일\올리지않을파일 생성.PNG)
 
 #### .gitignore에 올리지않을파일 집어넣기
 
-![올리지않을파일을 gitignore파일로 집어넣기](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\올리지않을파일을 gitignore파일로 집어넣기.PNG)
+![올리지않을파일을 gitignore파일로 집어넣기](C:\gitproject\GIt사용법\이미지 파일\올리지않을파일을 gitignore파일로 집어넣기.PNG)
 
 
 
@@ -158,29 +158,29 @@ echo 올리지않을파일.txt>>.gitignore
 
 #### 먼저 clone할 폴더 생성 (폴더 이름 : clone으로 지정했음)
 
-![clone할 파일생성](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\clone할 파일생성.PNG)
+![clone할 파일생성](C:\gitproject\GIt사용법\이미지 파일\clone할 파일생성.PNG)
 
 #### clone폴더로 들어가기
 
-![git clone폴더로 들어가기](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git clone폴더로 들어가기.PNG)
+![git clone폴더로 들어가기](C:\gitproject\GIt사용법\이미지 파일\git clone폴더로 들어가기.PNG)
 
 #### clone폴더에 들어가서 clone작업하기
 
-![clone작업](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\clone작업.PNG)
+![clone작업](C:\gitproject\GIt사용법\이미지 파일\clone작업.PNG)
 
 #### clone폴더 안에 repository가져오기 성공!!
 
-![해당 repository를 가져옴](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\해당 repository를 가져옴.PNG)
+![해당 repository를 가져옴](C:\gitproject\GIt사용법\이미지 파일\해당 repository를 가져옴.PNG)
 
 
 
 #### 내 repository에 누군가 파일을 올렸다!! (받을파일.txt파일 누군가 올렸다.)  (협업의 시작)
 
-![누군가 내 repository에 파일을 올렸다](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\누군가 내 repository에 파일을 올렸다.PNG)
+![누군가 내 repository에 파일을 올렸다](C:\gitproject\GIt사용법\이미지 파일\누군가 내 repository에 파일을 올렸다.PNG)
 
 #### git fetch : github(내 repository)에 새로운 파일이 올라왔는지 확인! 
 
-![git fetch](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git fetch.PNG)
+![git fetch](C:\gitproject\GIt사용법\이미지 파일\git fetch.PNG)
 
 #### 그 다음 git status로 확인 하면된다.
 
@@ -201,11 +201,11 @@ git pull (원격명) (브랜치명)을 입력합니다.
 그럼 뒤쳐진 커밋파일을 새로 다운받아진다. (내 ropository에 다른사람이 올린파일)
 ```
 
-![git pull로 상대방에서 올린 파일 내 컴퓨터에도 저장](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git pull로 상대방에서 올린 파일 내 컴퓨터에도 저장.PNG)
+![git pull로 상대방에서 올린 파일 내 컴퓨터에도 저장](C:\gitproject\GIt사용법\이미지 파일\git pull로 상대방에서 올린 파일 내 컴퓨터에도 저장.PNG)
 
 #### 그럼 이렇게 내 컴퓨터에 받을파일.txt 이 저장이 될것이다.
 
-![내 컴퓨터에 새로올라간 파일 저장](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\내 컴퓨터에 새로올라간 파일 저장.PNG)
+![내 컴퓨터에 새로올라간 파일 저장](C:\gitproject\GIt사용법\이미지 파일\내 컴퓨터에 새로올라간 파일 저장.PNG)
 
 # 브랜치 주고 받기 (엄청 심화버전)
 
@@ -218,25 +218,25 @@ git checkout -b developking
 이렇게하면 바로 developking 브랜치가 만들어져서 체크아웃까지 됩니다.
 ```
 
-![한번에 브랜치 만들고 checkout까지 하기](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\한번에 브랜치 만들고 checkout까지 하기.PNG)
+![한번에 브랜치 만들고 checkout까지 하기](C:\gitproject\GIt사용법\이미지 파일\한번에 브랜치 만들고 checkout까지 하기.PNG)
 
 
 
 #### developking이라는 브랜치에서 clone폴더 저장 
 
-![developking이라는 브랜치에서 clone폴더 저장](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\developking이라는 브랜치에서 clone폴더 저장.PNG)
+![developking이라는 브랜치에서 clone폴더 저장](C:\gitproject\GIt사용법\이미지 파일\developking이라는 브랜치에서 clone폴더 저장.PNG)
 
 
 
 #### banch = developking을 github에 만들어서 파일을 올리겠다.
 
-![banch = developking을 github에 만들어서 파일을 올리겠다.](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\banch = developking을 github에 만들어서 파일을 올리겠다..PNG)
+![banch = developking을 github에 만들어서 파일을 올리겠다.](C:\gitproject\GIt사용법\이미지 파일\banch = developking을 github에 만들어서 파일을 올리겠다..PNG)
 
 
 
 #### developking으로 파일 올라감
 
-![developking branch로 파일 저장됨](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\developking branch로 파일 저장됨.PNG)
+![developking branch로 파일 저장됨](C:\gitproject\GIt사용법\이미지 파일\developking branch로 파일 저장됨.PNG)
 
 #### git branch 와 git branch -a의 차이
 
@@ -253,13 +253,13 @@ git branch -a = 로컬저장소와 원격저장소에 저장된 branch를 볼수
 git branch -a
 ```
 
-![모든 banch 보기](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\모든 banch 보기.PNG)
+![모든 banch 보기](C:\gitproject\GIt사용법\이미지 파일\모든 banch 보기.PNG)
 
 
 
 #### 다른쪽에서 저장된 git branch로 이동하기
 
-![git checkout 다른 branch로 이동](C:\Users\user\Desktop\내 파일(Typora) 등\Typora\GIt버전관리\이미지 파일\git checkout 다른 branch로 이동.PNG)
+![git checkout 다른 branch로 이동](C:\gitproject\GIt사용법\이미지 파일\git checkout 다른 branch로 이동.PNG)
 
 
 
